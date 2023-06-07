@@ -3,7 +3,7 @@ import 'dart:io';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:test_curso/controllers/login_controller.dart';
-import 'package:test_curso/second_page.dart';
+import 'package:test_curso/pages/second_page.dart';
 
 class HomePage extends StatefulWidget {
 
